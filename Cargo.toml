@@ -1,0 +1,6 @@
+[package]
+name = "rust-hello-word"
+version = "1.0.0"
+authors = ["Kevin Martins <kevinmmartins@gmail.com>"]
+
+[dependencies]
