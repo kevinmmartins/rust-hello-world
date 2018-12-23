@@ -2,6 +2,6 @@ language: rust
 rust:
   - stable
   - beta
-  script:
+script:
   - cargo build --verbose --all
   - cargo test --verbose --all
