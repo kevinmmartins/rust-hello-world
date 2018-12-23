@@ -1,4 +1,6 @@
 # rust-hello-world
+[![Build Status](https://travis-ci.org/kevinmmartins/rust-hello-world.svg?branch=master)](https://travis-ci.org/kevinmmartins/rust-hello-world)
+
 Just a simple hello world with Rust and Docker
 
 ## Requirements
